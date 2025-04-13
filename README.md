@@ -1,7 +1,9 @@
 # 404_brain_not_found
 Dragonhack 2025
+
 **TEAM**
 404 brain not found
+
 **TEAM MEMBERS**
 Pika Križnar, Aleksandar Đuričić, Drejc Bevk
 
